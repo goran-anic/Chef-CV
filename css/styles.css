@@ -9,16 +9,13 @@ p {
   line-height: 2;
 }
 
-
-  .skill-row {
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
-
-li {
-  letter-spacing: 1px;
-  margin: 6px;
+.list {
+  text-align: left;
 }
 hr {
   border: dotted #EAF6F6 6px;
@@ -65,10 +62,14 @@ a:hover {
 
 .middle-container {
   margin: 100px 0;
-  
 
 }
+li {
+  letter-spacing: 1px;
+  margin: 7px;
+  align-items: center;
 
+}
 .bottom-container {
   background-color: #66BFBF;
 padding: 50px 0 20px;
@@ -100,11 +101,7 @@ padding: 50px 0 20px;
   margin-right: 30px;
 }
 
-.klupa-img {
-  width: 20%;
-  float: right;
-  margin-left: 30px;
-}
+
 
 .njiva-img {
   width: 20%;
