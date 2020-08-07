@@ -8,8 +8,10 @@ body {
 p {
   line-height: 2;
 }
+.list {
+  text-align: left;
 
-.skill-row {
+  .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
