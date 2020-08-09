@@ -15,7 +15,7 @@ p {
   text-align: left;
 }
 .list {
-  text-align: left;
+  text-align: justify;
 }
 hr {
   border: dotted #EAF6F6 6px;
@@ -65,8 +65,8 @@ a:hover {
 
 }
 li {
-  letter-spacing: 1px;
-  margin: 7px;
+  
+  margin: 5px;
   align-items: center;
 
 }
@@ -97,8 +97,8 @@ padding: 50px 0 20px;
 
 .burger-img {
   width: 20%;
-  float: left;
-  margin-right: 30px;
+  float: right;
+  margin-left: 30px;
 }
 
 
