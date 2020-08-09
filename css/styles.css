@@ -15,7 +15,7 @@ p {
   text-align: left;
 }
 .list {
-  text-align: justify;
+  text-align: left;
 }
 hr {
   border: dotted #EAF6F6 6px;
@@ -67,7 +67,7 @@ a:hover {
 li {
   
   margin: 2px;
-  align-items: center;
+  align-items: left;
 
 }
 .bottom-container {
